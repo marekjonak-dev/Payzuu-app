@@ -31,6 +31,12 @@ The goal of the project is to make payments accessible, lightweight, and easy to
 
 ---
 
+## 🌐 Live
+
+https://youtu.be/hpTxFlSw7G8
+
+---
+
 ## 📸 Screenshots
 
 ### Dashboard
@@ -58,14 +64,6 @@ The platform is designed with usability in mind, focusing on a clean user experi
 
 ---
 
-## 🔐 Note
-
-This repository is a showcase of the application.
-
-The full production source code is private.
-
----
-
 ## 🎯 What I Learned
 
 - Designing and building a real-world payment flow  
@@ -76,6 +74,28 @@ The full production source code is private.
 
 ---
 
-## 🌐 Live
+## 👨‍💻 My Role
 
-https://youtu.be/hpTxFlSw7G8
+- Designed and built the application from scratch  
+- Implemented payment flows and transaction handling  
+- Integrated Stripe for real payment processing  
+- Developed dashboard, analytics and user management features  
+- Focused on usability and real-world application
+
+---
+
+## 🚀 Status
+
+This application is live and supports real payments using Stripe.
+
+---
+
+## 🔐 Note
+
+This repository is a showcase of the application.
+
+The full production source code is private.
+
+---
+
+
